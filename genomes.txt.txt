@@ -1,0 +1,2 @@
+genome myGenome
+trackDb genome/trackDb.txt

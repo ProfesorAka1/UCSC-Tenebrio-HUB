@@ -1,0 +1,5 @@
+hub MyCustomHub
+shortLabel My Custom Genome Hub
+longLabel My Custom Genome Hub for Tenebrio molitor
+genomesFile genomes.txt
+email captainanaen@gmail.com
