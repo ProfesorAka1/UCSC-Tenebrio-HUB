@@ -1,0 +1,11 @@
+track genome
+type dna
+fastaFile genome/genome.fna
+shortLabel Genome
+longLabel Tenebrio molitor Genome Sequence
+
+track genes
+type gff
+gffFile genome/annotations.gff
+shortLabel Genes
+longLabel Gene Annotations
